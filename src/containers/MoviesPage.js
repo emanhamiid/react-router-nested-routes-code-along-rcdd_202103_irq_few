@@ -12,4 +12,4 @@ const MoviesPage = ({ match, movies }) => (
   </div>
 )
 
-export default MoviesPage
+export default MoviesPage;
